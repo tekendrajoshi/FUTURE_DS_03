@@ -45,17 +45,17 @@ The dataset does **not** contain open-ended student comments. Hence, **NLP-based
 ---
 
 ## 🔍 Data Analysis Methodology
--🔹 Step 1: Data Cleaning & Preparation
+- 🔹 Step 1: Data Cleaning & Preparation
   -Imported required Python libraries
   -Loaded and inspected the dataset
   -Handled missing values and empty comments
   -Prepared textual data for NLP processing
-🔹 Step 2: Exploratory Data Analysis (EDA)
+- 🔹 Step 2: Exploratory Data Analysis (EDA)
   -Response rate analysis per program
   -Average rating analysis per event
   -Rating distribution visualization
   -Identification of highly rated and low-rated events
--🔹 Step 5: Type Analysis (Workshop vs Seminar)
+- 🔹 Step 5: Type Analysis (Workshop vs Seminar)
   -Grouped data by course/event type
   -Compared average ratings across event types
   -Analyzed sentiment distribution by course name

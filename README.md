@@ -55,7 +55,7 @@ The dataset does **not** contain open-ended student comments. Hence, **NLP-based
   -Average rating analysis per event
   -Rating distribution visualization
   -Identification of highly rated and low-rated events
-- 🔹 Step 5: Type Analysis (Workshop vs Seminar)
+- 🔹 Step 3: Type Analysis (Workshop vs Seminar)
   -Grouped data by course/event type
   -Compared average ratings across event types
   -Analyzed sentiment distribution by course name
